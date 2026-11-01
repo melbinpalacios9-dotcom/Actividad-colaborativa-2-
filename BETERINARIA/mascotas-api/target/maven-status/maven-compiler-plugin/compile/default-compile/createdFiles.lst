@@ -1,0 +1,4 @@
+com\veterinaria\controller\MascotaController.class
+com\veterinaria\MascotasApiApplication.class
+com\veterinaria\repository\MascotaRepository.class
+com\veterinaria\model\Mascota.class
